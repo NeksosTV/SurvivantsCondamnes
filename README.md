@@ -10,8 +10,8 @@ $ npm install
 $ npm run dev
 
 # build for production and launch server
-$ npm run build
-$ npm run start
+$ npm run dev
+$ npm run dev
 
 # generate static project
 $ npm run generate
